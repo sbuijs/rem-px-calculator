@@ -1,0 +1,96 @@
+html{
+background-color: #08AEEA;
+background-image: linear-gradient(48deg, #08AEEA 0%, #2AF598 100%);
+
+color: #033649;
+height: 100vh;
+}
+
+
+
+h1{
+    text-align: center;
+    margin-top: 4rem;
+}
+
+h2{
+    margin-bottom: 0.625rem;
+}
+
+.input-section{
+    text-align: center;
+margin-top: 30vh;
+}
+
+h4{
+    display: inline-block;
+    float: left;
+}
+hr{
+    margin-top: 10rem;
+    border: 1px solid white;
+}
+
+.change{
+    text-align: right;
+}
+#calculate-px-or-rem{
+    /* margin-bottom: 2rem; */
+    display: inline-block;
+    float: right;
+}
+
+#calculate-input, #pixels-or-rem{
+    display: inline;
+}
+
+#calculate-input{
+    margin: 1rem;
+}
+
+.btn{
+    background-color: #E0E4CC;
+    border: none;
+    border-radius:  0.3125rem;
+    padding:  0.625rem;
+}
+
+#calculate-it{
+color: white;
+background-color: #F7A541;
+}
+
+input{
+    background-color: white;
+    border: none;
+    border-radius:  0.3125rem;
+    padding:  0.625rem;
+}
+
+p{
+    display: inline-block;
+}
+
+.resultAndTip{
+    padding:  .8rem;
+}
+.resultAndTip p{
+display: block;
+margin: 0;
+line-height: 14px;
+font-size: 14px;
+padding: 5px;
+}
+
+.input-submit{
+text-align: center;
+}
+
+/* p{
+    margin: 0;
+    padding: 0;
+} */
+
+.hidden{
+    visibility: hidden;
+}
