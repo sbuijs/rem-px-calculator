@@ -21,8 +21,4 @@ Created a rem - px calculator with javscript<br/>
 Stephanie Buijs - buijs.s@gmail.com<br/>
 Project Link: [https://github.com/sbuijs/rem-px-calculator](https://github.com/sbuijs/rem-px-calculator)<br/>
 
-
-## Acknowledgments
-- Jonas Schmedtmann: ["The Complete JavaScript Course 2021: From Zero to Expert!"](https://www.udemy.com/course/the-complete-javascript-course/).
-
 <p align="left">(<a href="#top">back to top</a>)</p>
